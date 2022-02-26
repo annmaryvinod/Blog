@@ -44,9 +44,36 @@ More Points
 
 
  * Component consists of two parts : 
+
    1. Template  : refers to the HTML content or structure
-   2. Logic  : refers to the js functions or other functionality codes
+   2. Logic  : refers to the js functions or other functionality codes.
 
 
+
+
+1. TEMPLATE 
+
+
+* All the JS code should be before the "return" statement inside the App commponent in the App.js file. 
+* This can include variables and other codes.
+
+* variable initialisation : follows the usual trend as in JS.
+
+* Using them in the "return" statement : USE CURLY BRACES {}
+
+** Note : return statement returns jsx.
+* React will identify the curly braces for variable and search for it inside the entire App component.
+
+* inside curly braces, it is possible to write js codes directly.
+
+
+
+* variables,strings,numbers,arrays etc. can be shown as output. Arrays are converted to strings.
+
+* IT IS IMPOSSIBLE TO OUTPUT BOOLEANS AND OBJECTS ON SIMILAR GROUNDS!
+
+
+
+* Attribute values can also be variables.
 
 
