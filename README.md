@@ -43,5 +43,10 @@ More Points
  * Then we export the component so that we can use it in other files. (see the export in the "App.js" and the import in the "index.js")
 
 
+ * Component consists of two parts : 
+   1. Template  : refers to the HTML content or structure
+   2. Logic  : refers to the js functions or other functionality codes
+
+
 
 
