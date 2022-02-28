@@ -15,22 +15,8 @@ function App() {
   return (
     <div className="App">
       <div className="content">
-        <h1> {title} </h1>
-        <p> Liked {likes} times!</p>
-
-        {/* direct code */}
-
-        <p> {"Hi, I am here!"} </p>
-
-        <p>{ [1,2,3,44] } </p>
-
-        <p> { Math.random() * 10 } </p>
-
-
-
-        {/* ATTRIBUTE VALUE AS A VARIABLE */}
-
-        <a href= {link}>Google Site</a>
+        <h1> App Component </h1>
+        
       </div>
     </div>
   );

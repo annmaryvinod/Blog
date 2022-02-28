@@ -77,6 +77,9 @@ More Points
 * Attribute values can also be variables.
 
 
+<img src = "images/template.png>
+
+
 
 
 
@@ -86,5 +89,9 @@ More Points
 * COMPONENT TREE : 
 
 <img src = "images/comptree.png>
+
+
+
+
 
 
