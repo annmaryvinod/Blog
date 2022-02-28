@@ -77,3 +77,14 @@ More Points
 * Attribute values can also be variables.
 
 
+
+
+
+
+
+
+* COMPONENT TREE : 
+
+<img src = "images/comptree.png>
+
+
