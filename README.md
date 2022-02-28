@@ -93,5 +93,16 @@ More Points
 
 
 
+* Creating a new component :
+
+
+1. A new component is created within the "src" folder. Eg ; Navbar.js
+
+2. Using "Simple React Components" extension, "sfc" can be created easily. Only name and other external parameters need to be added.
+
+   * sfc : stateless functional component
+
+
+
 
 
