@@ -107,6 +107,15 @@ More Points
 * ALL STYLES IN THIS PROJECT IS DONE ON THE INDEX.CSS
 
 
+* Inline styles :
+
+  1. Single {} represents dynamic value while double {{}} represnts :
+       * outer : dynamic
+       * inner : object
+
+ 2. Inline is added as object.      
+
+
 
 
 
