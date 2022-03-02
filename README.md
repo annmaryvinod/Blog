@@ -104,5 +104,10 @@ More Points
 
 
 
+* ALL STYLES IN THIS PROJECT IS DONE ON THE INDEX.CSS
+
+
+
+
 
 
