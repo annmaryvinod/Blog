@@ -119,13 +119,18 @@ More Points
 
 * Events
 
-   1. click : 
+   1. General :
 
    * function is created initially
    * reference is given at the desired place in {}
    * never invoke the function inside the {} using ()
    * all we need is reference to the function
    * if invoked already, the output is seen before the event.
+
+
+   2. Argument :
+
+   * when an argument is to be given, we wrap the function inside an anonymous function.
 
 
 
