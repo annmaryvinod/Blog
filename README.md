@@ -113,7 +113,19 @@ More Points
        * outer : dynamic
        * inner : object
 
- 2. Inline is added as object.      
+ 2. Inline is added as object.     
+
+
+
+* Events
+
+   1. click : 
+
+   * function is created initially
+   * reference is given at the desired place in {}
+   * never invoke the function inside the {} using ()
+   * all we need is reference to the function
+   * if invoked already, the output is seen before the event.
 
 
 
