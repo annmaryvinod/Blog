@@ -1,21 +1,17 @@
 
 import { memo } from 'react';
 import './App.css';
+import Navbar from './Navbar';
+import Home from './Home'
 
 function App() {
 
-  // dynamic variables 
-
-  const title = "Potter World";
-  const memb = 567428;
-  const likes = '1K';
 
   return (
     <div className="App">
+      <Navbar/>
       <div className="content">
-        <h1>{title}</h1>
-        <p>{memb} members</p>
-        <p>{likes} Liked</p>
+        <Home/>
       </div>
     </div>
   );
